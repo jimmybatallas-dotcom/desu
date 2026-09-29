@@ -1,4 +1,4 @@
-# Proyecto Hiberus
+# Proyecto DESU
 
 Sistema de gestión de empleados con métricas y administración departamental.
 
