@@ -69,14 +69,6 @@ Este proyecto implementa una aplicación web para la gestión de empleados y dep
 - Docker para contenerización
 - Docker Compose para orquestación
 
-## Instalación y Ejecución
-
-### Con Docker
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/Adrian31BT/Hiberus.git
-cd Hiberus
 
 # Iniciar los servicios
 docker-compose up -d
