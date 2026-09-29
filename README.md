@@ -157,4 +157,4 @@ El proyecto está organizado conceptualmente en:
 
 ## Contacto
 
-Ing. Adrian Bacilio Tumbaco - adrian31baciliot@gmail.com
+Jimmy Batallas - jimmybatallas@gmail.com
